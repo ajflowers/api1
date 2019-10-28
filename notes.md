@@ -1,0 +1,8 @@
+- created repo on GH
+- cloned
+- opened in editor
+- add `.gitignore` ==> `npx gitignore node`
+- add `package.json` ==> `npm init -y`
+- added "server" script inside `package.json`
+- install `nodemon` as a development dependency => `npm -i -D nodemon`
+- add an `index.js` fole to root w/ console.log
